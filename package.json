@@ -1,0 +1,11 @@
+{
+  "name": "estudo--03--lista-usuarios-github",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "renan, lucas",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
